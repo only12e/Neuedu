@@ -1,0 +1,2 @@
+Application Version: ${neuedu.version}
+Spring Boot Version: ${spring-boot.version}
